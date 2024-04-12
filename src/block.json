@@ -1,7 +1,7 @@
 {
 	"$schema": "https://schemas.wp.org/trunk/block.json",
 	"apiVersion": 2,
-	"name": "create-block/metadata-block",
+	"name": "blocks-course/metadata-block",
 	"version": "0.1.0",
 	"title": "Metadata",
 	"category": "widgets",

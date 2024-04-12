@@ -1,6 +1,6 @@
 <?php
 /**
- * Plugin Name:       Metadata
+ * Plugin Name:       Metadata Block
  * Description:       Example of editing meta using a block.
  * Requires at least: 6.1
  * Requires PHP:      7.0

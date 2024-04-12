@@ -36,6 +36,9 @@
 		"lint-staged": "^13.2.3"
 	},
 	"dependencies": {
+		"@wordpress/components": "^27.3.0",
+		"@wordpress/core-data": "^6.32.0",
+		"@wordpress/data": "^9.25.0",
 		"@wordpress/i18n": "^4.55.0"
 	}
 }
